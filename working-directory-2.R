@@ -5,7 +5,7 @@ View(A2)
 rowSums(is.na(A2))
  # Number of missing per column/variable#
 colSums(is.na(A2))
-##### list wise deletion of missing values###
+#####listwise deletion of missing values###
 A3<-na.omit(A2)
 View(A3)
 #####replace 25.0 with 24.0 in density#
