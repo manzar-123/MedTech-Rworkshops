@@ -1,0 +1,110 @@
+country,literacy,density,Mean.income.Rs,gdp.Rs
+Afghanistan,39,25,12,205
+Argentina,95,12,153,3408
+Armenia,98,126,28,5000
+Australia,100,2.4,26,16848
+Austria,99,94,23,18396
+Azerbaijan,98,86,16,3000
+Bahrain,77,828,40,
+Bangladesh,35,800,51,202
+Barbados,99,605,24,6950
+Belarus,99,50,89,6500
+Belgium,99,429,12,17912
+Bolivia,78,6.9,24,730
+Bosnia,86,87,40,3098
+Botswana,73,2.4,,2677
+Brazil,81,18,10,2354
+Bulgaria,93,79,159,3831
+Burkina Faso,18,46,31,357
+Burundi,50,216,28,208
+Cambodia,35,55,109,260
+Cameroon,54,27,111,993
+Canada,97,2.8,23,19904
+Cent. Afri.R,37,5,,457
+Chile,93,18,11,2591
+China,78,124,34,377
+Colombia,87,41,115,1538
+Costa Rica,93,64,41,2031
+Croatia,97,85,33,5487
+Cuba,94,99,135,1382
+Czech Rep.,,142,212,7311
+Denmark,99,120,41,18277
+Domincan R.,83,159,20,1034
+Ecuador,88,49,22,1085
+Egypt,48,57,60,748
+El Salvador,73,246,58,1078
+Estonia,99,46,92,6000
+Ethiopia,34,47,21,122
+Finland,100,49,13,15877
+France,99,105,24,18944
+Gabon,61,4.2,213,4283
+Gambia,37,86,19,351
+Georgia,99,81,59,4500
+Germany,99,227,544,17539
+Greece,93,80,32,8060
+Guatemala,55,97,35,1342
+Haiti,53,241,35,383
+Honduras,73,46,22,1030
+Hong Kong,77,5494,39,14641
+Hungary,99,111,134,5249
+Iceland,100,2.5,103,17241
+India,53,284,240,275
+Indonesia,77,102,20,681
+Iran,54,49,118,1500
+Iraq,60,44,18,1955
+Ireland,98,51,68,12170
+Israel,93,248,21,13066
+Italy,97,188,19,17500
+Japan,99,440,20,19860
+Jordan,80,42,31,1157
+Kenya,69,49,51,323
+Kuwait,73,97,84,6818
+Latvia,99,40,133,7400
+Lebanon,80,444,109,1429
+Liberia,40,29,24,409
+Libya,64,2.8,51,5910
+Lithuania,99,58,24,6710
+Malaysia,78,58,32,2995
+Mexico,87,46,65,3604
+Morocco,50,64,10,1062
+N. Korea,99,189,321,1000
+Netherlands,99,466,11,17245
+New Zealand,99,14,35,14381
+Nicaragua,57,44,85,447
+Nigeria,51,102,20,282
+Norway,99,11,33,17755
+Oman,,7.8,35,7467
+Pakistan,35,144,50,406
+Panama,88,44,1116,2397
+Paraguay,90,11,89,1500
+Peru,85,18,316,1107
+Philippines,90,221,54,867
+Poland,99,124,68,4429
+Portugal,85,108,111,9000
+Romania,96,96,29,2702
+Russia,99,8.8,25,6680
+Rwanda,50,411,21,292
+S. Korea,96,447,129,6627
+Saudi Arabia,63,7.7,140,6651
+Senegal,38,44,51,744
+Singapore,88,4456,30,14990
+Somalia,34,10,23,2126
+South Africa,76,45,64,3128
+Spain,95,77,26,13047
+Sweden,99,19,21,16900
+Switzerland,99,170,28,22384
+Syria,64,74,209,2436
+Taiwan,91,582,21,7055
+Tanzania,46,29,418,263
+Thailand,93,115,49,1800
+Turkey,81,79,30,3721
+U.Arab Em.,68,42,36,14193
+UK,99,247,62,15974
+USA,97,26,49,23474
+Uganda,48,76,49,325
+Ukraine,97,87,23,2340
+Uruguay,96,18,23,3131
+Uzbekistan,97,50,59,1350
+Venezuela,88,22,58,2829
+Vietnam,88,218,46,230
+Zambia,73,11,31,573

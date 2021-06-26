@@ -1,0 +1,2013 @@
+Healthyeating,Dailyevents,Prioritisingworkload,Writingnotes,Workaholism,Thinkingahead,Finaljudgement,Reliability,Keepingpromises
+4,2,2,5,Moderate,2,5,Yes,4
+4,3,1,2,Low,5,5,Yes,4
+4,3,5,5,High,3,3,Yes,5
+3,4,2,5,Low,4,5,Yes,3
+5,4,3,4,Low,4,2,Yes,4
+3,4,5,5,High,5,2,No,4
+3,3,2,1,No,2,1,Yes,3
+3,3,1,5,Low,5,3,Yes,5
+3,5,4,5,Low,3,3,Yes,5
+3,3,5,4,Moderate,3,3,Yes,5
+3,1,2,1,Low,4,3,No,4
+4,3,4,2,Low,3,2,Yes,4
+3,4,5,5,Moderate,5,3,Yes,5
+3,2,3,1,Low,3,1,No,5
+4,3,3,2,High,4,4,Yes,5
+2,2,1,4,Moderate,2,5,No,4
+3,4,3,4,Moderate,5,3,Yes,5
+4,1,3,5,High,5,1,Yes,5
+3,5,4,3,Moderate,3,1,Yes,4
+3,4,3,2,Low,4,4,Yes,4
+3,1,1,1,No,1,4,No,5
+3,3,3,5,High,5,5,No,5
+1,2,1,1,Very low,1,1,No,4
+3,1,1,1,Low,2,1,Yes,5
+4,1,1,2,Very low,3,3,Yes,5
+3,3,1,1,Moderate,4,4,No,2
+1,5,4,2,Moderate,5,1,Yes,5
+3,2,3,1,Low,4,4,Yes,4
+3,2,1,3,Very low,2,3,No,4
+3,3,3,4,Low,3,4,Yes,4
+2,3,1,3,No,5,3,Yes,4
+3,2,4,5,Very low,5,4,Yes,4
+3,1,2,3,Low,3,1,Yes,4
+3,3,5,5,Low,4,3,Yes,4
+3,2,3,4,No,2,5,Yes,3
+3,1,3,4,Moderate,4,1,Yes,4
+3,4,1,1,No,4,3,No,4
+2,4,4,2,High,4,1,Yes,5
+3,3,5,5,High,5,5,No,5
+3,2,1,1,No,5,3,No,4
+3,3,2,1,Low,4,5,Yes,5
+1,4,3,5,High,3,2,No,3
+1,4,2,2,No,5,2,Yes,5
+3,3,2,5,Very low,4,4,Yes,4
+2,2,2,3,Very low,2,3,Yes,3
+3,2,3,2,Moderate,4,5,Yes,4
+2,4,2,1,No,4,5,No,3
+3,4,4,4,Very low,3,3,Yes,4
+4,4,2,1,Very low,4,1,Yes,4
+3,2,2,2,No,2,1,No,2
+3,1,3,5,Low,4,1,No,4
+4,5,5,3,High,5,1,Yes,5
+4,3,3,2,High,2,1,No,4
+3,1,1,5,High,5,1,No,4
+3,3,1,2,High,5,1,Yes,1
+3,3,1,1,Low,1,1,Yes,4
+3,3,2,4,Very low,3,1,No,4
+3,4,2,5,Low,5,3,No,3
+3,5,5,3,Low,3,5,Yes,5
+3,3,1,4,Low,3,2,Yes,4
+3,5,3,1,Moderate,4,2,Yes,5
+4,4,3,4,No,4,3,No,5
+5,5,3,5,Low,3,5,Yes,5
+3,3,4,5,High,5,5,Yes,5
+3,2,5,5,Moderate,3,3,No,4
+4,5,3,1,Low,1,2,Yes,4
+4,2,2,2,No,2,2,No,5
+1,3,2,3,High,5,3,No,5
+1,2,1,5,Very low,2,1,No,5
+3,3,3,4,Moderate,2,3,No,2
+3,3,4,3,Low,5,5,Yes,5
+3,2,1,1,No,2,4,No,4
+4,3,3,4,Low,3,3,Yes,4
+2,2,1,2,No,3,3,No,5
+3,4,3,4,Low,3,2,Yes,4
+4,5,4,5,Moderate,4,5,Yes,5
+3,2,1,5,High,4,5,Yes,5
+2,2,3,1,Moderate,5,1,Yes,4
+3,3,1,1,No,3,3,Yes,5
+3,5,3,5,Moderate,1,1,Yes,4
+3,3,2,3,Low,4,4,Yes,4
+4,2,5,5,No,3,1,Yes,4
+4,4,5,3,Moderate,2,4,No,3
+3,2,3,4,Low,3,3,No,3
+3,2,2,3,Moderate,4,3,No,4
+3,4,3,1,Very low,4,3,Yes,4
+3,1,1,1,No,1,3,Yes,5
+4,4,1,1,No,5,5,Yes,4
+3,3,4,5,High,4,4,Yes,5
+1,2,1,3,Very low,4,1,No,2
+4,2,3,2,Very low,3,1,No,3
+3,3,1,3,Very low,4,1,No,3
+3,3,1,5,High,3,5,No,3
+3,2,3,2,Very low,2,1,No,3
+2,4,3,5,Very low,3,3,Yes,4
+4,4,4,4,Very low,5,3,No,5
+3,4,2,2,High,5,5,Yes,4
+2,3,3,3,Low,4,1,No,3
+5,3,2,1,No,1,5,Yes,5
+3,3,3,5,Very low,2,5,Yes,5
+1,3,2,5,Moderate,4,3,No,2
+2,5,1,1,No,2,1,No,2
+3,3,5,5,Moderate,3,4,Yes,4
+3,4,5,4,Moderate,3,2,Yes,5
+3,1,4,5,High,5,5,Yes,5
+4,4,3,,Low,4,5,Yes,5
+3,3,1,1,Very low,5,5,No,5
+4,3,3,3,Low,4,1,Yes,4
+3,2,2,3,High,3,2,Yes,4
+1,2,3,3,Moderate,4,3,Yes,5
+3,4,2,4,Low,5,1,Yes,4
+4,4,3,2,Low,4,3,Yes,3
+4,4,3,3,Very low,3,5,No,5
+4,4,2,5,Moderate,3,4,Yes,4
+2,4,3,4,High,5,3,Yes,3
+2,2,1,3,No,1,1,Yes,5
+2,2,4,1,Low,2,1,Yes,5
+4,3,3,5,Low,5,5,No,5
+3,2,3,4,High,3,5,Yes,4
+3,3,3,3,Low,3,3,No,3
+3,2,2,1,Very low,3,3,Yes,4
+2,2,1,5,Low,5,3,Yes,5
+3,2,3,5,Low,4,3,Yes,5
+2,1,4,1,Very low,4,1,Yes,4
+3,4,3,5,Low,4,3,Yes,4
+3,3,3,3,High,4,2,No,3
+3,4,2,2,Moderate,5,1,No,4
+2,3,2,3,Moderate,4,1,Yes,5
+3,3,5,4,High,3,3,Yes,4
+4,3,3,5,Low,3,3,Yes,5
+3,2,2,4,Very low,2,1,No,2
+3,2,3,3,Low,3,3,Yes,4
+3,5,4,4,Low,4,1,Yes,5
+3,4,2,5,Moderate,5,4,No,4
+4,5,5,5,High,5,5,Yes,5
+3,3,5,5,High,5,2,Yes,5
+2,3,1,3,Very low,5,3,Yes,3
+3,4,1,1,Very low,5,3,Yes,5
+5,3,4,2,Moderate,3,4,Yes,4
+2,3,2,4,Very low,5,3,Yes,4
+4,2,3,5,Low,3,1,No,3
+5,1,1,5,High,5,5,Yes,5
+3,3,3,3,Moderate,4,3,Yes,4
+3,4,3,2,Moderate,2,2,Yes,4
+2,3,2,3,Very low,5,4,No,4
+3,3,5,3,Low,3,3,Yes,4
+3,2,2,4,Moderate,2,4,Yes,5
+2,2,2,2,Moderate,2,3,No,4
+5,3,5,5,High,5,5,Yes,5
+3,3,4,3,High,4,5,Yes,4
+1,4,1,3,No,1,5,No,3
+2,5,3,3,Low,1,1,Yes,3
+1,3,1,4,Very low,2,4,No,4
+3,2,4,2,High,4,3,Yes,5
+5,4,5,5,Moderate,4,3,Yes,5
+2,3,1,2,Very low,3,2,Yes,4
+4,2,2,4,Low,3,2,No,4
+3,5,4,3,Very low,4,5,Yes,4
+3,3,5,4,No,5,3,Yes,5
+3,3,3,3,High,5,1,Yes,4
+4,3,5,5,High,5,5,Yes,5
+3,3,3,1,Low,3,1,Yes,4
+5,4,2,4,Low,5,3,Yes,4
+1,3,1,3,Low,3,3,No,5
+3,3,3,3,Low,3,3,No,3
+3,3,2,4,Low,4,1,Yes,5
+2,3,1,1,High,5,5,No,3
+1,5,2,1,No,1,5,Yes,5
+3,3,4,2,Low,2,1,No,3
+3,3,1,2,No,5,1,Yes,3
+4,3,5,5,Moderate,5,4,Yes,5
+2,5,2,1,Very low,2,1,Yes,4
+4,3,4,5,Moderate,5,4,Yes,5
+4,5,2,1,No,2,4,No,4
+3,2,3,3,Very low,3,3,No,3
+2,3,4,5,Low,4,5,Yes,4
+4,2,4,4,Low,4,4,Yes,4
+3,1,1,2,No,5,5,Yes,5
+2,3,2,5,Very low,2,4,Yes,3
+2,1,2,5,Moderate,5,5,Yes,4
+3,2,1,3,Low,3,3,Yes,4
+5,5,3,3,Low,4,2,Yes,4
+3,5,4,3,Very low,3,2,No,5
+3,3,4,3,No,4,3,Yes,2
+5,3,3,2,Low,3,1,Yes,4
+4,3,5,5,High,,5,Yes,5
+2,3,2,3,Very low,1,1,No,3
+3,2,3,2,Moderate,3,2,Yes,4
+1,5,1,2,Low,2,3,No,3
+3,4,2,1,No,5,1,No,4
+1,1,1,1,No,5,1,Yes,1
+3,2,1,2,Very low,3,4,No,4
+1,,1,2,Moderate,2,1,Yes,5
+3,3,4,4,Low,4,2,Yes,5
+2,2,3,3,Very low,4,5,Yes,5
+3,2,3,2,Low,2,3,Yes,3
+4,3,5,5,High,3,1,Yes,5
+3,3,2,3,Low,3,4,No,4
+3,3,3,4,Moderate,5,3,Yes,5
+2,2,3,1,Low,2,1,Yes,3
+3,3,2,4,Very low,2,4,Yes,3
+3,2,1,3,Low,2,3,Yes,5
+4,3,4,4,Low,4,3,Yes,4
+4,3,3,4,High,2,4,Yes,4
+3,2,4,5,Moderate,5,3,Yes,4
+3,4,2,2,Moderate,4,1,Yes,4
+4,1,1,1,Low,3,5,No,3
+3,5,1,5,Low,4,3,Yes,3
+2,3,2,2,Very low,4,3,Yes,5
+3,3,1,4,Low,2,4,Yes,4
+4,3,1,2,No,5,3,No,5
+3,3,5,3,High,3,4,Yes,4
+2,2,2,2,Very low,2,3,No,2
+2,3,1,1,Very low,2,3,No,2
+3,4,4,4,Low,5,4,Yes,5
+3,4,4,4,Very low,4,4,Yes,5
+4,4,3,3,Very low,3,3,No,4
+4,4,3,4,Low,3,3,Yes,5
+3,2,1,5,Very low,2,5,Yes,5
+3,4,2,2,Very low,2,3,No,5
+3,2,3,5,Moderate,4,5,Yes,5
+4,2,4,5,High,4,1,Yes,5
+3,3,4,4,Low,4,4,Yes,4
+4,3,4,5,Moderate,4,3,Yes,5
+2,3,4,4,Moderate,4,4,Yes,4
+3,3,5,5,High,3,1,No,3
+2,5,4,5,Moderate,3,1,No,4
+4,3,4,5,Moderate,4,1,Yes,4
+1,4,1,5,Moderate,4,1,Yes,1
+1,1,5,1,No,5,1,Yes,5
+1,2,1,1,Low,3,1,Yes,3
+3,2,3,1,Low,1,3,Yes,3
+4,5,4,4,Moderate,3,3,Yes,4
+4,4,3,5,Moderate,4,5,Yes,5
+4,3,4,4,Low,5,5,Yes,5
+3,5,2,5,Very low,2,5,No,5
+3,2,2,5,High,5,,Yes,3
+3,3,5,4,Low,4,4,Yes,5
+2,2,2,4,Very low,2,1,No,4
+3,2,3,4,High,1,1,No,4
+3,1,5,5,Low,3,1,No,3
+4,3,3,3,Moderate,3,3,Yes,4
+4,5,3,3,Moderate,3,3,Yes,5
+2,1,4,3,Moderate,4,2,Yes,5
+4,1,3,2,Very low,3,1,No,5
+5,5,5,1,Low,5,5,Yes,5
+5,5,4,5,High,5,3,Yes,5
+3,3,1,3,Low,3,1,Yes,5
+4,3,3,2,No,2,3,No,3
+4,5,4,5,High,3,3,No,4
+4,1,2,2,Very low,3,2,No,4
+4,3,3,3,Very low,4,4,No,4
+1,1,1,1,No,2,1,Yes,2
+2,3,1,4,No,4,5,Yes,5
+4,5,5,5,High,5,3,No,2
+3,3,1,1,Very low,5,3,Yes,5
+3,1,3,5,Very low,2,1,Yes,4
+2,2,4,3,Very low,3,4,No,2
+3,3,3,4,Low,3,4,Yes,5
+2,3,3,1,Very low,1,,Yes,3
+3,2,5,5,High,5,3,Yes,4
+3,3,2,2,No,2,1,Yes,3
+4,5,2,1,No,5,3,Yes,5
+3,3,5,5,Low,3,3,Yes,4
+3,4,1,1,No,4,5,No,4
+1,4,2,1,Moderate,3,1,Yes,4
+3,3,2,1,Very low,5,4,Yes,4
+3,2,1,2,Very low,4,4,Yes,5
+2,2,3,2,Very low,3,4,No,2
+3,1,1,1,No,5,1,Yes,5
+2,2,2,2,Low,5,2,No,3
+3,1,4,5,Very low,2,3,No,2
+2,2,1,1,No,3,2,Yes,4
+2,3,1,4,Very low,2,2,No,3
+2,4,2,3,Very low,3,4,No,2
+3,2,2,5,Very low,2,2,No,3
+3,5,2,3,Low,3,1,Yes,3
+3,3,5,5,Low,3,3,No,4
+4,4,4,4,High,4,1,Yes,5
+3,2,4,3,No,4,3,No,4
+2,3,2,2,Very low,3,1,No,3
+4,3,3,4,Moderate,4,3,Yes,4
+3,3,2,4,No,2,3,Yes,5
+3,5,1,2,Very low,4,3,No,2
+1,5,1,4,No,3,1,No,5
+3,3,3,5,Very low,3,2,Yes,4
+3,3,3,2,Low,3,3,No,3
+3,3,3,1,Very low,4,4,Yes,4
+2,3,1,2,Low,3,1,No,4
+4,5,5,4,Low,4,3,Yes,2
+5,3,5,2,Low,5,5,Yes,3
+1,1,1,2,No,1,1,No,3
+4,3,3,5,Moderate,2,4,No,4
+2,2,3,1,Very low,3,2,No,2
+2,2,1,1,No,4,4,Yes,5
+3,4,2,1,No,2,5,Yes,3
+5,5,5,5,High,5,5,Yes,4
+3,1,3,1,High,5,5,Yes,4
+3,3,5,4,High,4,3,Yes,5
+3,3,2,4,High,4,1,Yes,4
+3,1,2,5,Low,5,3,Yes,5
+3,4,4,4,High,3,1,No,4
+2,2,2,3,Low,3,1,No,4
+2,3,1,3,Very low,4,3,No,3
+1,1,2,1,Moderate,2,5,Yes,4
+3,4,2,2,Low,3,5,Yes,5
+3,3,2,4,Very low,3,3,Yes,4
+3,3,1,5,Low,1,1,No,3
+3,4,3,5,Moderate,5,1,Yes,5
+3,5,3,3,Very low,3,3,Yes,4
+1,4,5,5,Very low,5,5,Yes,4
+5,2,,,High,3,1,Yes,4
+3,2,3,2,High,5,5,No,3
+4,2,4,3,Moderate,5,3,Yes,5
+3,3,1,1,No,4,1,Yes,5
+2,3,2,3,Low,2,1,No,4
+3,4,1,1,Low,2,1,Yes,4
+3,2,3,1,Very low,3,5,Yes,3
+3,3,1,4,Very low,3,3,Yes,4
+4,5,2,5,Moderate,5,2,No,5
+3,3,3,5,Very low,4,1,Yes,4
+3,3,4,4,Moderate,5,4,Yes,4
+4,3,3,3,Moderate,3,3,Yes,2
+3,1,2,2,No,3,3,Yes,4
+3,3,3,4,Low,4,4,Yes,5
+3,3,1,1,No,2,1,No,1
+4,5,2,2,Low,1,1,Yes,5
+3,5,3,1,High,3,5,Yes,4
+2,3,3,3,Low,4,3,Yes,5
+4,5,2,2,Very low,4,2,Yes,4
+3,2,5,1,Low,3,3,Yes,4
+4,4,1,1,Very low,4,3,Yes,3
+4,3,1,4,Moderate,5,1,No,4
+3,3,4,2,Low,5,3,Yes,5
+3,3,4,5,High,4,2,Yes,5
+3,3,3,3,Very low,3,5,Yes,5
+3,3,4,5,Low,3,1,Yes,4
+2,2,1,3,Low,2,1,No,3
+4,3,2,4,Very low,5,2,No,4
+3,3,5,4,High,4,4,Yes,5
+3,3,3,5,Very low,5,3,Yes,5
+3,2,1,2,Moderate,5,1,Yes,5
+3,2,3,3,High,4,3,Yes,5
+3,2,3,3,Very low,5,2,Yes,5
+3,5,4,4,Moderate,4,1,Yes,4
+3,4,1,2,High,4,3,Yes,4
+3,2,4,3,Low,4,1,Yes,3
+5,1,4,3,High,5,4,Yes,5
+4,4,3,3,Low,3,1,Yes,4
+3,3,1,1,Low,5,5,No,3
+3,2,1,2,Low,3,2,No,4
+2,2,4,3,High,3,1,No,3
+3,2,4,2,Low,2,3,No,5
+5,3,4,2,Moderate,4,2,Yes,4
+4,2,,4,Very low,3,3,Yes,3
+3,3,5,2,No,3,4,Yes,4
+3,5,5,4,Moderate,5,5,Yes,5
+3,4,4,4,Moderate,4,4,Yes,5
+4,3,2,4,Moderate,3,1,No,3
+4,2,1,1,Low,1,3,No,2
+3,4,1,1,Very low,2,2,Yes,3
+3,3,3,3,Moderate,4,3,Yes,4
+4,1,1,2,Very low,2,1,No,2
+3,1,3,5,Low,3,3,Yes,4
+5,1,4,5,High,5,5,Yes,5
+3,2,1,2,Moderate,3,2,Yes,5
+3,5,2,4,Moderate,5,5,Yes,4
+3,5,1,5,High,5,1,No,3
+3,2,2,4,Very low,5,5,Yes,5
+2,2,2,1,No,3,2,No,3
+1,5,1,5,Very low,3,1,Yes,5
+1,1,1,1,Very low,4,5,No,5
+3,3,4,5,Very low,4,4,Yes,5
+3,1,5,5,Low,4,4,Yes,5
+4,4,5,5,High,4,3,No,3
+4,5,4,1,Moderate,5,5,Yes,2
+3,4,4,5,Low,4,4,Yes,4
+3,5,1,3,High,3,1,Yes,2
+3,1,2,3,Very low,2,1,Yes,5
+2,4,1,1,No,4,3,No,3
+4,3,1,2,Very low,3,3,No,4
+3,1,4,5,Moderate,3,3,Yes,5
+3,3,3,5,Moderate,3,1,Yes,4
+3,5,1,3,Very low,3,2,Yes,5
+2,3,1,1,No,5,3,No,4
+3,4,3,3,High,4,2,Yes,4
+2,5,2,1,High,5,1,Yes,4
+2,4,4,2,High,4,2,No,4
+3,4,4,4,High,2,5,Yes,5
+4,4,2,2,Low,4,2,Yes,4
+3,4,3,5,High,4,2,Yes,4
+1,4,2,1,No,4,3,Yes,4
+5,5,1,3,Low,2,1,Yes,4
+1,3,5,5,High,4,3,Yes,5
+3,2,4,4,Moderate,4,3,Yes,5
+3,1,5,3,High,5,2,Yes,5
+2,3,3,3,Low,2,2,Yes,3
+3,1,2,3,Low,5,3,Yes,4
+5,1,5,4,Low,4,1,Yes,5
+3,4,3,4,Low,5,1,Yes,5
+3,3,4,4,High,4,3,Yes,5
+2,2,3,2,Low,2,3,No,2
+4,5,2,1,Very low,3,2,Yes,5
+1,5,1,4,Moderate,4,1,Yes,4
+3,5,1,5,Moderate,5,5,No,5
+3,5,2,3,Very low,3,,No,3
+3,4,4,4,Low,5,1,Yes,5
+3,4,5,5,High,5,1,Yes,5
+3,5,3,3,Low,3,3,No,3
+2,3,3,5,High,4,3,Yes,5
+1,4,1,1,No,1,3,No,5
+4,2,2,4,Low,3,2,No,4
+4,3,2,4,High,5,5,Yes,5
+4,2,3,1,Very low,5,5,No,3
+3,5,5,5,High,4,4,Yes,4
+4,3,5,3,High,4,2,Yes,4
+1,5,1,1,No,5,1,Yes,5
+4,5,2,5,Low,2,2,No,3
+2,5,1,1,No,5,1,Yes,5
+3,5,2,2,High,5,1,Yes,4
+3,3,4,3,No,1,5,Yes,5
+1,3,1,5,No,2,1,No,5
+3,2,4,5,Low,3,3,Yes,4
+2,2,2,2,Very low,3,1,No,3
+3,2,2,2,Low,5,2,Yes,4
+1,,1,3,Low,4,1,Yes,4
+2,3,2,4,Very low,3,1,No,4
+3,2,2,5,High,3,3,No,4
+5,5,4,5,Low,5,4,Yes,4
+4,2,1,3,Low,2,1,Yes,2
+3,2,3,4,Very low,2,1,Yes,5
+4,4,4,4,Very low,4,1,Yes,4
+1,4,3,3,Low,4,1,Yes,4
+3,2,2,3,Moderate,3,2,Yes,4
+4,3,3,3,Low,5,1,No,4
+3,3,2,1,Very low,3,3,No,3
+3,3,3,5,Moderate,4,3,Yes,4
+3,3,3,2,Moderate,3,2,Yes,5
+2,3,2,1,Very low,4,1,No,5
+3,4,4,2,Low,3,3,Yes,4
+3,2,2,2,Low,3,1,No,4
+2,2,2,2,Low,4,5,No,4
+2,3,3,1,Very low,5,3,No,4
+3,2,3,4,Very low,2,2,Yes,4
+3,2,2,5,Very low,5,1,Yes,4
+4,2,2,5,Low,4,5,Yes,5
+3,5,5,5,Moderate,3,3,Yes,3
+4,2,3,2,Low,5,1,Yes,5
+3,4,4,3,Very low,4,3,No,3
+1,3,1,1,No,3,1,No,4
+3,2,3,3,Moderate,3,1,No,3
+1,5,3,5,Low,5,1,Yes,5
+3,3,4,3,High,4,1,Yes,3
+2,4,1,4,Very low,5,3,Yes,4
+4,2,2,2,Low,4,4,Yes,3
+3,1,2,1,Very low,3,4,No,3
+4,3,5,1,High,3,2,Yes,5
+2,5,4,4,Moderate,3,1,Yes,5
+4,3,3,5,Very low,2,,No,2
+3,4,3,2,Low,2,1,No,3
+3,4,1,2,No,3,1,No,4
+4,4,2,4,Very low,5,3,Yes,3
+3,4,5,5,Moderate,5,1,Yes,5
+4,4,4,5,High,5,3,Yes,4
+3,2,3,5,No,3,3,Yes,4
+3,1,3,5,High,3,1,No,4
+3,3,5,5,High,5,2,Yes,5
+3,1,1,5,High,2,1,Yes,1
+4,3,2,5,Low,4,1,Yes,4
+3,2,1,4,Very low,2,2,Yes,4
+3,3,3,1,Low,3,4,Yes,5
+4,1,2,4,Moderate,5,2,Yes,5
+4,3,3,3,Very low,3,1,Yes,3
+3,5,2,3,Low,3,4,Yes,3
+1,3,1,1,No,4,1,No,5
+2,3,3,3,Low,3,3,No,3
+4,3,3,5,Moderate,2,2,No,4
+4,2,4,4,High,5,2,No,4
+1,2,1,3,No,2,1,No,5
+1,1,1,1,No,3,2,No,4
+4,3,2,5,Moderate,5,2,Yes,5
+5,4,4,4,Moderate,4,5,Yes,5
+4,2,5,3,Very low,5,1,Yes,4
+3,4,2,5,Moderate,5,2,No,5
+3,1,2,1,High,3,3,No,3
+2,5,2,2,Moderate,3,3,Yes,3
+3,3,2,4,Low,4,3,Yes,5
+2,5,1,3,Moderate,3,1,No,3
+3,2,4,5,High,4,5,Yes,5
+3,2,2,3,Moderate,4,5,Yes,4
+3,2,1,1,Very low,3,1,No,4
+4,2,4,5,High,3,3,Yes,4
+3,3,4,4,Moderate,5,2,Yes,3
+4,3,3,2,Moderate,3,4,Yes,5
+4,3,4,4,No,2,1,Yes,3
+4,3,3,3,Low,3,3,Yes,4
+3,3,3,3,High,3,3,Yes,5
+4,4,4,4,Low,3,2,No,4
+4,3,5,5,No,5,5,Yes,5
+3,5,1,1,Moderate,2,1,Yes,5
+4,3,3,3,High,4,1,No,4
+3,3,4,5,Moderate,4,3,Yes,5
+4,2,2,1,Moderate,3,1,Yes,5
+3,5,2,1,No,3,2,No,5
+4,3,4,5,Low,3,2,Yes,5
+3,2,3,3,Very low,4,1,Yes,4
+4,3,3,1,High,5,4,Yes,4
+1,2,2,5,Very low,4,4,Yes,3
+4,3,3,4,High,3,1,Yes,4
+3,3,2,1,Low,3,1,No,2
+2,2,1,4,No,3,2,Yes,5
+3,1,3,4,Very low,3,4,Yes,3
+3,5,3,4,High,5,1,No,3
+4,4,5,4,Moderate,3,3,Yes,4
+3,2,3,2,High,3,3,No,2
+3,5,3,2,Low,4,2,Yes,3
+1,2,1,2,No,4,3,No,4
+3,3,2,2,Very low,3,4,No,3
+1,1,1,4,No,3,3,No,4
+3,2,3,2,Low,3,3,No,3
+,3,2,3,Low,2,1,Yes,4
+1,3,3,5,Moderate,3,3,No,3
+4,4,1,5,Moderate,2,3,No,2
+4,5,3,4,Low,4,,Yes,5
+4,3,4,5,High,5,3,Yes,5
+3,3,2,3,Very low,3,3,Yes,4
+3,2,3,3,No,3,3,Yes,4
+3,4,5,5,Moderate,5,3,Yes,4
+3,,3,3,Low,3,3,Yes,5
+3,4,3,4,Low,4,4,Yes,4
+2,3,1,4,Low,3,3,No,3
+3,3,3,5,Low,4,5,Yes,4
+2,3,3,2,High,3,2,Yes,5
+3,4,3,4,Low,4,2,Yes,4
+3,3,3,4,High,3,2,Yes,4
+4,3,3,1,No,5,3,Yes,5
+3,4,2,3,Very low,3,4,No,3
+4,4,4,5,High,5,3,Yes,5
+3,2,2,1,Low,5,1,Yes,3
+3,3,3,3,Low,3,3,Yes,4
+3,1,2,1,Low,3,3,Yes,4
+1,3,3,1,No,2,1,No,3
+3,3,1,4,High,5,1,No,3
+4,4,3,3,Low,3,1,Yes,4
+3,3,1,2,Very low,5,1,Yes,3
+2,3,1,2,Very low,3,3,No,3
+4,3,4,5,Moderate,4,4,Yes,4
+3,4,3,4,Moderate,3,3,No,4
+3,4,4,5,Moderate,4,2,Yes,4
+3,3,5,3,Low,4,4,Yes,4
+5,3,3,3,Low,4,3,Yes,4
+5,,3,2,Low,2,1,Yes,3
+3,3,4,2,Very low,4,3,Yes,4
+1,4,1,1,Very low,2,1,Yes,5
+2,4,4,5,Moderate,4,3,No,2
+4,2,5,4,Moderate,4,1,Yes,5
+4,2,5,4,Moderate,4,1,Yes,5
+4,5,4,2,Moderate,5,1,Yes,4
+4,5,5,3,High,5,1,Yes,5
+2,3,4,4,Moderate,5,1,Yes,5
+3,4,1,3,Very low,4,1,Yes,4
+4,3,4,5,Moderate,2,3,No,3
+3,2,3,1,Moderate,1,1,Yes,4
+3,5,2,4,Low,5,1,Yes,4
+1,1,1,1,No,2,1,No,3
+3,5,3,3,Moderate,3,3,Yes,5
+2,2,3,3,Low,4,3,Yes,5
+3,1,1,3,No,2,1,Yes,4
+4,3,4,4,Moderate,2,2,Yes,4
+3,3,4,5,Low,3,4,Yes,4
+4,2,1,3,No,3,1,Yes,3
+4,3,2,1,Low,2,2,Yes,4
+3,5,3,5,High,4,2,Yes,3
+4,3,2,2,Low,2,1,Yes,2
+4,2,3,5,Low,3,3,Yes,3
+4,3,3,5,Low,4,4,Yes,4
+3,1,3,4,Very low,3,3,No,4
+2,3,4,3,Very low,3,2,Yes,4
+4,2,2,1,Very low,3,1,Yes,5
+2,4,1,1,No,3,2,No,3
+4,2,1,1,Low,5,1,No,4
+2,3,2,1,Low,5,1,Yes,5
+4,4,4,5,High,5,3,Yes,5
+3,3,4,4,No,2,4,Yes,5
+3,4,2,5,Moderate,3,5,Yes,4
+3,3,5,5,High,4,3,Yes,4
+3,5,3,3,High,5,4,Yes,4
+3,3,3,2,Low,3,3,No,5
+3,3,3,4,High,3,1,Yes,4
+1,5,5,5,No,5,1,Yes,5
+3,3,3,3,Low,2,1,Yes,3
+4,3,5,5,High,,4,Yes,5
+3,3,2,5,Very low,3,1,No,3
+3,1,1,1,No,1,1,Yes,4
+3,4,2,5,High,2,1,Yes,4
+3,3,1,3,Moderate,3,3,No,3
+3,3,3,1,Very low,3,1,Yes,5
+3,5,1,2,Low,4,3,No,2
+2,4,4,3,High,5,1,No,5
+3,2,1,2,Low,2,1,No,3
+3,1,3,2,Very low,3,1,Yes,3
+2,2,2,2,No,1,2,No,3
+3,1,1,2,No,2,1,Yes,5
+3,3,2,1,Very low,3,4,Yes,4
+3,3,1,1,Very low,3,4,Yes,4
+3,3,3,2,Low,2,1,No,3
+3,3,3,4,Low,2,3,Yes,5
+5,2,3,2,Low,3,3,Yes,4
+3,4,2,4,Very low,3,3,Yes,4
+3,2,2,1,No,2,1,Yes,3
+5,3,2,5,Moderate,5,3,Yes,5
+3,3,4,3,No,1,1,Yes,3
+3,5,4,1,Very low,2,1,Yes,5
+3,2,1,1,Very low,2,3,Yes,5
+2,1,4,3,Moderate,2,4,Yes,3
+3,5,1,1,No,2,1,No,2
+3,2,2,2,Moderate,2,1,No,4
+3,4,1,3,No,3,3,No,4
+4,4,4,2,High,4,1,Yes,4
+5,4,4,2,Moderate,2,4,No,3
+5,4,3,1,No,5,5,Yes,5
+4,1,2,4,Low,5,3,Yes,5
+2,3,1,2,Very low,3,3,No,4
+3,3,3,3,Low,4,3,No,3
+2,2,2,3,Very low,2,1,Yes,5
+4,1,5,2,Low,3,5,Yes,4
+3,3,3,2,Low,2,3,No,3
+3,3,3,5,Low,2,3,Yes,4
+3,1,5,5,Moderate,5,2,Yes,5
+2,3,2,1,Very low,4,2,Yes,4
+2,3,3,2,No,2,3,No,4
+4,2,1,3,Very low,5,3,Yes,2
+3,2,1,2,Very low,3,5,Yes,4
+4,5,2,5,High,5,1,Yes,4
+3,5,3,3,High,4,1,Yes,5
+3,3,2,1,Very low,5,3,Yes,5
+4,2,2,5,Very low,3,2,Yes,5
+1,2,2,4,No,5,5,Yes,5
+2,3,2,2,No,2,1,Yes,3
+4,2,3,5,Moderate,4,1,Yes,4
+3,3,3,5,High,5,4,Yes,4
+3,3,5,4,Low,3,5,Yes,4
+3,3,3,4,Moderate,3,4,Yes,5
+2,3,4,5,High,5,1,Yes,4
+4,3,3,3,Low,2,5,Yes,4
+4,3,2,5,Very low,4,4,Yes,5
+4,2,3,5,High,5,4,Yes,5
+4,3,2,2,Very low,4,1,No,3
+3,1,3,3,Low,3,1,Yes,5
+2,3,2,3,Very low,2,2,Yes,4
+3,2,1,1,No,1,1,No,5
+3,5,5,5,Moderate,5,5,Yes,5
+3,2,2,1,Low,4,5,Yes,5
+3,2,1,1,Very low,3,2,No,4
+3,3,3,3,Low,2,1,No,3
+3,3,2,1,Very low,3,5,No,4
+3,4,3,2,Very low,3,1,Yes,3
+2,3,3,2,Low,4,3,Yes,5
+3,2,3,4,Low,4,1,Yes,4
+5,1,1,1,No,3,3,Yes,4
+2,5,3,3,Very low,5,2,Yes,5
+1,4,4,5,High,2,4,Yes,3
+4,3,2,3,Low,2,1,No,5
+4,3,1,2,Moderate,3,2,Yes,4
+3,4,2,4,Very low,3,2,Yes,3
+3,5,3,3,No,2,5,No,3
+3,5,3,5,Moderate,4,5,No,3
+3,5,1,3,Low,5,4,Yes,4
+4,2,2,3,Low,3,3,Yes,4
+4,2,2,3,Very low,3,3,No,3
+4,4,4,4,Moderate,4,2,Yes,5
+4,3,3,4,High,4,3,Yes,5
+4,3,3,4,High,3,5,No,5
+3,3,4,2,Low,5,3,Yes,4
+2,4,1,3,Very low,2,4,Yes,4
+3,2,2,4,Very low,4,3,No,5
+3,1,4,5,Low,3,1,No,4
+3,3,3,4,Low,4,1,Yes,4
+4,4,3,5,Moderate,4,4,Yes,5
+2,4,2,3,No,2,1,No,3
+2,3,2,2,Very low,2,1,No,4
+3,2,2,5,No,3,1,Yes,4
+3,3,3,1,No,3,3,No,3
+4,3,1,2,Low,4,2,Yes,5
+3,2,1,1,No,2,1,Yes,4
+4,3,4,4,Moderate,4,4,Yes,4
+1,3,1,3,Moderate,3,1,No,4
+3,3,2,2,No,3,2,No,4
+2,2,1,2,Very low,4,1,No,3
+5,3,4,1,Very low,4,1,Yes,5
+3,3,3,4,Low,2,3,Yes,4
+2,4,4,3,Low,4,3,Yes,5
+3,5,1,4,Low,2,3,Yes,3
+4,2,2,3,No,1,3,No,3
+5,3,3,5,Low,4,3,No,4
+2,2,1,2,No,4,2,No,3
+3,3,3,5,Very low,3,3,Yes,4
+2,3,2,4,Moderate,4,1,No,4
+3,3,3,5,Moderate,5,3,Yes,4
+3,3,3,5,Low,3,5,Yes,5
+3,2,3,3,Low,2,1,Yes,4
+4,2,1,1,High,4,1,No,4
+2,2,4,2,Low,3,1,Yes,4
+3,5,1,1,Moderate,3,3,Yes,5
+3,2,3,2,Low,4,1,Yes,5
+2,4,2,2,Low,2,4,No,4
+3,3,1,2,Low,4,1,Yes,4
+3,5,4,3,Low,2,2,Yes,4
+4,3,3,3,Low,3,4,Yes,4
+3,5,2,4,Low,5,4,Yes,4
+4,5,3,2,Very low,2,4,No,4
+5,2,4,4,Moderate,4,2,Yes,5
+2,5,2,2,Very low,3,3,No,4
+3,3,3,5,Low,3,3,Yes,3
+4,3,2,5,Low,3,3,Yes,4
+3,3,,3,High,4,1,No,3
+1,1,1,1,Moderate,3,1,Yes,2
+3,5,5,5,High,5,5,Yes,4
+1,5,3,2,Moderate,5,1,No,4
+1,3,3,5,High,4,1,Yes,3
+2,3,2,1,Very low,2,1,Yes,4
+4,3,3,3,No,4,3,Yes,4
+3,5,3,5,Moderate,5,3,Yes,4
+3,2,1,4,Very low,3,4,Yes,4
+4,2,1,5,High,4,1,Yes,3
+5,4,3,3,Very low,2,3,Yes,4
+3,3,3,1,Very low,1,1,Yes,5
+3,3,1,2,No,2,2,Yes,3
+,3,1,3,Very low,2,1,No,1
+3,3,3,5,High,3,5,No,
+1,3,2,4,No,3,2,No,4
+3,3,2,4,Very low,2,1,No,2
+4,3,2,4,Very low,4,3,No,4
+3,1,3,3,Low,3,2,No,3
+4,3,2,5,High,4,3,Yes,3
+2,3,2,3,Very low,3,1,Yes,3
+3,3,4,3,High,4,3,Yes,5
+3,2,2,1,No,3,1,No,2
+3,3,2,3,Low,3,4,No,4
+4,3,3,5,Moderate,4,5,Yes,3
+3,3,2,4,Very low,2,3,Yes,4
+4,,4,5,Moderate,5,3,Yes,4
+2,5,2,4,Moderate,4,1,Yes,5
+3,4,4,4,High,5,5,Yes,4
+3,2,3,5,High,1,1,Yes,5
+4,3,2,5,Moderate,5,5,Yes,4
+3,4,1,4,Low,5,3,No,4
+3,3,3,2,Moderate,2,3,Yes,4
+3,1,3,1,No,2,3,Yes,4
+4,3,3,3,Low,3,3,No,3
+4,4,3,5,Low,4,2,Yes,3
+3,3,3,1,Very low,4,5,Yes,4
+4,3,3,3,Very low,3,5,Yes,4
+3,2,3,2,High,2,1,Yes,4
+3,3,3,3,Very low,3,1,Yes,4
+5,5,5,5,High,4,2,Yes,4
+3,3,4,4,Very low,5,1,Yes,3
+4,4,4,5,Low,5,5,Yes,4
+2,2,3,1,No,3,1,Yes,4
+3,3,3,2,Very low,2,2,Yes,4
+4,2,1,2,No,2,3,No,3
+2,3,2,2,Very low,3,,Yes,4
+3,3,4,5,High,5,1,Yes,5
+3,2,3,4,Very low,2,1,No,3
+3,3,1,2,High,3,1,Yes,4
+4,2,3,5,Low,5,1,Yes,4
+3,3,3,3,Low,3,3,No,3
+4,3,2,4,Low,3,2,Yes,5
+3,3,5,5,Low,3,3,No,3
+4,4,3,5,Moderate,5,3,Yes,5
+2,5,2,3,Low,2,3,Yes,4
+2,2,1,4,Low,1,5,Yes,4
+3,4,4,3,Moderate,5,2,Yes,4
+4,3,3,4,Low,5,5,Yes,4
+2,3,1,4,No,3,1,No,4
+3,2,3,3,Very low,3,3,No,3
+3,2,2,3,Low,2,5,Yes,3
+3,3,3,3,Very low,2,1,No,3
+3,3,2,2,Low,3,3,Yes,2
+4,4,1,3,Low,4,3,Yes,4
+4,5,2,1,Low,2,5,Yes,4
+1,3,2,4,Low,3,1,Yes,4
+4,4,3,2,Very low,3,4,No,4
+,3,1,4,Moderate,4,1,No,4
+3,3,2,3,Low,2,5,Yes,4
+3,2,1,1,No,1,3,Yes,4
+3,3,5,3,Low,1,1,Yes,3
+3,3,2,3,Low,2,2,No,4
+2,3,2,3,Low,3,3,No,4
+4,2,4,1,Moderate,4,4,Yes,5
+3,3,3,1,Very low,3,3,No,1
+3,,1,3,Low,2,1,Yes,3
+3,4,3,2,High,5,1,Yes,4
+3,1,3,2,Very low,4,3,No,4
+1,3,4,5,High,5,3,Yes,3
+5,3,3,1,Low,4,1,Yes,5
+2,4,2,4,High,4,4,Yes,5
+2,2,4,5,Low,5,3,Yes,5
+4,3,2,3,Very low,4,5,No,5
+2,2,3,1,No,4,2,Yes,4
+2,3,3,3,No,5,3,Yes,4
+4,5,2,2,Very low,2,5,Yes,4
+4,3,2,4,Low,4,4,Yes,4
+3,2,3,5,High,3,3,Yes,5
+5,3,1,4,Low,4,3,Yes,5
+3,1,3,5,High,3,3,Yes,3
+3,2,3,3,No,4,1,Yes,3
+4,2,2,5,Moderate,4,5,Yes,5
+3,3,1,3,Very low,3,5,No,5
+3,3,3,1,Low,3,4,No,3
+4,5,3,4,Moderate,3,2,Yes,4
+2,4,2,5,Very low,3,5,Yes,4
+3,3,2,2,Very low,4,2,Yes,4
+5,3,,5,Low,3,1,Yes,5
+3,3,3,3,Moderate,3,3,Yes,4
+3,5,4,2,Moderate,5,1,Yes,4
+3,3,2,1,No,1,1,No,3
+5,5,5,2,High,4,2,Yes,5
+4,4,3,5,Moderate,4,3,Yes,4
+3,4,,2,No,3,5,Yes,1
+1,3,3,4,Very low,4,1,Yes,5
+1,3,3,3,Low,3,3,No,3
+1,2,3,4,High,4,3,No,1
+3,3,1,1,Very low,2,3,Yes,3
+3,3,2,3,Very low,2,2,No,3
+3,3,2,4,Very low,3,5,Yes,4
+4,4,3,4,Moderate,3,4,Yes,3
+4,3,3,2,Very low,5,2,No,5
+3,3,2,2,Very low,3,3,Yes,4
+3,3,2,2,Very low,3,1,Yes,4
+4,4,3,4,Low,5,4,Yes,5
+4,4,1,3,Moderate,1,1,Yes,3
+4,5,3,5,Very low,4,4,Yes,4
+4,5,3,3,Low,3,3,No,5
+3,4,2,2,Low,5,5,Yes,4
+3,4,1,1,No,1,1,No,3
+4,5,3,1,Very low,2,1,No,5
+4,3,1,3,Low,3,3,No,3
+2,3,3,4,Very low,4,3,No,5
+4,3,4,2,Low,3,1,Yes,5
+3,3,3,3,Low,3,5,Yes,4
+3,4,3,4,High,5,5,Yes,5
+3,2,1,3,No,3,1,Yes,5
+4,5,3,2,Low,4,5,Yes,3
+3,3,3,2,Moderate,3,1,Yes,4
+3,2,5,3,High,4,4,Yes,4
+3,4,4,2,Low,3,4,Yes,5
+5,4,5,3,Moderate,3,3,Yes,5
+4,3,3,3,Low,3,3,No,3
+2,5,1,1,Very low,2,1,Yes,4
+3,3,1,1,Very low,2,1,Yes,4
+4,2,3,3,Moderate,4,4,Yes,4
+1,5,3,3,Very low,3,1,Yes,4
+3,5,3,2,Low,5,3,Yes,5
+4,1,3,3,Very low,4,4,No,5
+3,3,3,3,Low,4,4,No,5
+4,3,3,2,Low,3,2,Yes,4
+4,4,1,3,No,5,3,Yes,5
+3,1,3,5,High,5,5,Yes,5
+1,2,3,3,No,5,3,No,5
+4,2,2,3,Very low,4,1,No,3
+4,2,1,1,No,2,1,Yes,4
+3,3,3,4,Low,3,5,Yes,5
+1,4,1,3,Very low,1,3,No,4
+3,5,3,4,Moderate,2,2,Yes,5
+3,3,5,5,Low,4,4,Yes,5
+4,3,3,4,Moderate,3,4,Yes,3
+4,2,2,2,Low,3,3,Yes,3
+4,4,3,5,Moderate,5,3,Yes,4
+4,2,3,4,Moderate,4,2,Yes,4
+4,5,1,1,Very low,1,1,Yes,3
+4,4,2,3,Moderate,2,4,Yes,4
+3,1,3,3,Moderate,4,1,No,4
+3,4,2,2,Very low,2,3,No,4
+4,4,2,2,Low,5,1,Yes,5
+3,2,1,1,No,1,2,Yes,3
+3,3,1,4,Very low,2,3,Yes,4
+3,3,2,3,Very low,4,1,No,4
+2,3,3,3,Low,3,3,No,3
+5,5,2,5,Moderate,3,5,Yes,4
+5,4,5,5,High,4,1,Yes,5
+3,4,3,3,Low,2,1,No,4
+3,3,3,4,Low,3,5,Yes,3
+3,1,1,2,Low,2,4,Yes,3
+4,3,3,3,Moderate,2,3,No,1
+4,2,1,5,Low,5,3,Yes,5
+3,3,1,5,Very low,4,3,Yes,4
+3,5,3,4,Low,5,1,No,3
+3,2,4,4,Low,5,1,Yes,4
+3,5,3,4,Low,4,2,Yes,5
+3,5,2,1,No,4,3,Yes,4
+3,4,1,2,No,4,1,Yes,4
+2,4,1,,No,,2,Yes,4
+4,5,3,1,Low,4,3,Yes,5
+3,2,3,2,Low,4,3,No,4
+4,4,2,3,High,3,3,No,5
+4,3,2,3,Low,5,3,Yes,4
+3,4,1,2,High,2,5,No,3
+4,4,2,2,Moderate,3,3,Yes,4
+3,2,1,1,Very low,2,1,No,4
+1,2,1,1,No,4,2,No,4
+4,4,4,5,High,5,2,Yes,5
+3,5,3,4,Moderate,4,2,Yes,5
+5,4,4,4,Very low,4,3,Yes,5
+3,4,5,1,Moderate,3,1,Yes,4
+1,2,1,1,No,5,3,No,5
+5,4,2,2,High,3,5,No,5
+3,3,2,1,Very low,3,3,Yes,4
+4,4,1,1,Very low,1,5,Yes,5
+2,2,1,2,No,3,3,No,4
+1,2,1,1,No,1,3,No,4
+2,2,4,3,Very low,4,3,No,4
+4,4,2,1,Low,1,1,Yes,4
+3,4,5,5,Very low,3,1,Yes,4
+3,4,2,4,Very low,5,3,Yes,5
+1,3,2,4,Low,4,1,No,3
+4,3,4,4,Low,3,2,Yes,5
+3,2,3,2,Moderate,2,3,No,4
+3,5,2,3,Moderate,2,3,Yes,4
+3,4,3,4,High,5,3,Yes,4
+1,2,5,3,High,3,2,Yes,5
+3,3,2,3,Very low,4,3,Yes,4
+3,5,5,4,Moderate,4,3,Yes,5
+3,3,3,4,Low,4,5,Yes,4
+3,3,1,1,No,3,4,Yes,4
+3,5,1,2,Low,1,3,No,3
+3,2,1,4,Moderate,3,4,No,3
+4,2,3,2,Moderate,3,2,No,2
+3,4,3,3,Moderate,4,2,No,4
+4,5,3,4,Low,5,4,Yes,4
+3,3,3,5,Low,4,1,No,5
+3,4,1,1,Very low,1,1,No,4
+3,3,2,1,Very low,3,3,No,4
+1,5,1,1,No,3,1,No,1
+2,5,3,5,Very low,4,3,No,3
+2,3,2,3,Very low,4,3,Yes,3
+4,4,2,3,Very low,4,3,No,3
+4,5,3,5,High,5,1,Yes,5
+3,3,2,2,High,4,1,Yes,2
+3,4,2,2,Very low,3,2,Yes,3
+3,4,4,5,Moderate,5,5,Yes,4
+1,4,4,3,Low,3,3,Yes,4
+3,3,1,1,No,5,3,No,5
+2,2,2,2,Low,3,3,Yes,5
+3,4,5,5,High,5,1,Yes,5
+4,3,2,3,Very low,2,3,Yes,3
+4,2,3,2,Moderate,2,3,No,4
+3,4,2,4,Very low,4,5,Yes,5
+3,5,2,2,Very low,2,4,No,3
+2,2,1,4,Moderate,4,2,No,4
+3,1,1,2,No,3,1,No,5
+2,2,3,2,Moderate,4,2,No,2
+3,3,1,2,High,5,1,Yes,3
+3,2,4,3,Moderate,4,2,Yes,4
+1,3,2,1,No,3,5,No,1
+3,5,3,3,Low,3,3,Yes,4
+3,2,4,2,Low,5,5,Yes,3
+3,3,1,1,No,3,2,No,5
+2,2,1,1,No,3,1,No,2
+3,3,1,1,No,1,3,No,3
+3,3,3,1,Low,5,1,No,3
+3,3,3,4,Moderate,4,2,No,4
+4,4,1,3,Very low,3,4,Yes,3
+3,3,3,5,High,5,1,Yes,5
+1,3,1,1,No,2,1,Yes,3
+1,1,2,1,No,3,4,No,3
+4,2,3,2,Low,2,2,Yes,5
+3,2,4,3,Low,3,4,Yes,4
+4,5,3,3,Low,4,3,Yes,4
+1,4,3,1,No,5,1,Yes,3
+3,2,1,2,Low,3,2,Yes,4
+3,3,1,3,No,1,,No,5
+5,5,1,4,High,1,1,Yes,5
+3,2,3,2,Very low,4,2,Yes,4
+3,2,4,2,High,4,5,Yes,5
+1,2,4,5,Low,3,1,Yes,4
+3,3,2,2,Moderate,4,3,No,4
+3,2,5,2,High,2,3,Yes,5
+1,5,3,3,High,5,1,Yes,5
+4,3,4,4,High,5,3,Yes,4
+3,3,4,5,Low,3,2,Yes,5
+4,4,2,1,Very low,2,5,No,4
+3,5,3,5,High,4,4,Yes,4
+1,5,2,5,Moderate,4,1,No,5
+1,3,2,2,No,3,1,No,2
+1,3,2,1,No,1,3,Yes,4
+2,2,1,1,No,3,5,Yes,5
+2,2,2,3,Moderate,2,1,No,3
+3,4,1,2,Low,2,1,No,3
+4,,1,5,High,5,1,Yes,5
+2,4,3,1,Moderate,2,1,No,3
+1,3,1,1,No,2,1,No,3
+1,3,1,1,No,3,3,No,5
+3,4,4,3,Low,4,1,Yes,4
+3,3,2,5,Low,3,2,No,5
+4,3,4,4,Low,4,3,Yes,3
+3,3,4,3,Moderate,4,5,Yes,5
+4,4,4,2,High,4,2,Yes,4
+5,1,3,3,No,3,5,No,3
+4,2,4,2,Low,2,5,Yes,4
+2,1,2,3,No,2,1,No,3
+3,4,3,4,Low,4,3,No,5
+3,2,2,4,No,4,3,Yes,4
+3,3,2,1,Moderate,2,3,No,3
+2,3,1,1,No,4,1,No,5
+3,3,1,5,No,3,4,Yes,4
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,High,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,High,,,Yes,
+,,,,High,,,No,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,High,,,No,
+,,,,High,,,No,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,High,,,No,
+,,,,Very low,,,No,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,No,
+,,,,Very low,,,Yes,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,No,
+,,,,High,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,No,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,No,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,No,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,Yes,
+,,,,No,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,No,,,Yes,
+,,,,Low,,,No,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,No,
+,,,,No,,,No,
+,,,,No,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,No,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,High,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,High,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,Very low,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,No,
+,,,,No,,,No,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Moderate,,,No,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,Low,,,No,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,No,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,No,
+,,,,High,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,No,
+,,,,Low,,,No,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,No,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,No,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,No,
+,,,,No,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,No,,,No,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,No,,,No,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,High,,,No,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,No,
+,,,,High,,,No,
+,,,,No,,,No,
+,,,,No,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,High,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,High,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,No,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,No,
+,,,,Low,,,No,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,Moderate,,,No,
+,,,,No,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,No,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,No,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,No,,,No,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,No,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,No,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Moderate,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,High,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,No,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,No,
+,,,,No,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,High,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,No,,,No,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,No,
+,,,,Moderate,,,No,
+,,,,Moderate,,,No,
+,,,,Moderate,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,No,
+,,,,No,,,No,
+,,,,Very low,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,Moderate,,,No,
+,,,,Very low,,,Yes,
+,,,,Very low,,,No,
+,,,,Moderate,,,No,
+,,,,No,,,No,
+,,,,Moderate,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,No,,,No,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,Moderate,,,No,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,Yes,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,High,,,Yes,
+,,,,Very low,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Moderate,,,No,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,High,,,Yes,
+,,,,Low,,,Yes,
+,,,,Very low,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,No,
+,,,,No,,,No,
+,,,,No,,,Yes,
+,,,,No,,,Yes,
+,,,,Moderate,,,No,
+,,,,Low,,,No,
+,,,,High,,,Yes,
+,,,,Moderate,,,No,
+,,,,No,,,No,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,Low,,,No,
+,,,,Low,,,Yes,
+,,,,Moderate,,,Yes,
+,,,,High,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,Yes,
+,,,,No,,,No,
+,,,,Low,,,No,
+,,,,No,,,Yes,
+,,,,Moderate,,,No,
+,,,,No,,,No,
+,,,,No,,,Yes,
